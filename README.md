@@ -1,1 +1,1 @@
-# git-lab-2
+# git-lab-2Оновлення main перед rebase
